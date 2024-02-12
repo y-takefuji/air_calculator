@@ -111,7 +111,8 @@ https://youtu.be/med_jrFTMPA
 
 <pre>        34*5=?     </pre>
 [![34M5.gif](https://github.com/y-takefuji/air_calculator/raw/main/34M5.gif)
-<img src='https://github.com/y-takefuji/air_calculator/raw/main/34M5.png' width=160 height=120> <img src='https://github.com/y-takefuji/air_calculator/raw/main/resize_34M5.png' width=120 height=90>
+<img src='https://github.com/y-takefuji/air_calculator/raw/main/34M5.png' width=160 height=120> 
+<img src='https://github.com/y-takefuji/air_calculator/raw/main/resize_34M5.png' width=120 height=90>
 
 <pre> 2**8=?</pre>
 [![2^8.gif](https://github.com/y-takefuji/air_calculator/raw/main/2^8.gif)
@@ -119,8 +120,10 @@ https://youtu.be/med_jrFTMPA
 
 <pre>      2&9V3 --> 2**9/3        </pre>
 [![2^9div3.gif](https://github.com/y-takefuji/air_calculator/raw/main/2^9div3.gif)
-<img src='https://github.com/ytakefuji/air_calculator/raw/main/2^9div3.png' width=160 height=120> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_2^9div3.png' width=120 height=90>
+<img src='https://github.com/y-takefuji/air_calculator/raw/main/2^9div3.png' width=160 height=120> 
+<img src='https://github.com/y-takefuji/air_calculator/raw/main/resize_2^9div3.png' width=120 height=90>
 
 <pre>       aLLAV3=? -> sqrt(11)/3 </pre>  
 [![aLLAV3.gif](https://github.com/y-takefuji/air_calculator/raw/main/aLLAV3.gif)
-<img src='https://github.com/y-takefuji/air_calculator/raw/main/aLLAV3.png' width=160 height=120> <img src='https://github.com/y-takefuji/air_calculator/raw/main/resize_aLLAV3.png' width=120 height=90>
+<img src='https://github.com/y-takefuji/air_calculator/raw/main/aLLAV3.png' width=160 height=120> 
+<img src='https://github.com/y-takefuji/air_calculator/raw/main/resize_aLLAV3.png' width=120 height=90>
